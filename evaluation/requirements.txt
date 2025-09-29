@@ -1,0 +1,15 @@
+# common
+tqdm
+datasets
+transformers
+python_dateutil
+flash_attn
+
+# math_eval
+sympy
+antlr4-python3-runtime
+word2number
+Pebble
+timeout-decorator
+math_verify
+latex2sympy2_extended

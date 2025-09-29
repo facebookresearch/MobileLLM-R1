@@ -1,0 +1,4 @@
+transformers
+trl
+sentencepiece
+tensorboard
