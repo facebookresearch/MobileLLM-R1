@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b1f6cc52-7fbf-4870-aed5-21e066fbd792" width="30%" />
 </p>
 <p align="center">
-        🤗 <a href="https://huggingface.co/collections/facebook/mobilellm-r1-68c4597b104fac45f28f448e">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href=" ">Paper</a> &nbsp&nbsp | &nbsp&nbsp 💻 <a href="https://github.com/facebookresearch/MobileLLM-R1">Code</a> &nbsp&nbsp 
+        🤗 <a href="https://huggingface.co/collections/facebook/mobilellm-r1-68c4597b104fac45f28f448e">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/pdf/2509.24945">Paper</a> &nbsp&nbsp | &nbsp&nbsp 💻 <a href="https://github.com/facebookresearch/MobileLLM-R1">Code</a> &nbsp&nbsp 
 </p>
 
 # MobileLLM-R1
@@ -13,7 +13,7 @@ This repository includes demonstration code to reproduce the pretraining, mid-tr
 
 ## News
 - Sept 12, 2025: 🚀 MobileLLM-R1 models are released on [HuggingFace](https://huggingface.co/collections/facebook/mobilellm-r1-68c4597b104fac45f28f448e).
-- Spet 29, 2025: 🌟 The technical report "[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes]()" is also available! Please check it out. 
+- Spet 29, 2025: 🌟 The technical report "[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](https://arxiv.org/pdf/2509.24945)" is also available! Please check it out. 
 
 ## Highlights
 
@@ -335,12 +335,13 @@ For AIME, we evaluate models across 64 runs and report the average accuracy. For
 
 If you find our model useful for your research, please consider citing:
 
-    @misc{mobilellm_r1_2025,
-      title={MobileLLM-R1: Model Card},
-      author={Changsheng Zhao*, Ernie Chang*, Zechun Liu*, Chia-Jung Chang, Wei Wen, Chen Lai, Rick Cao, Yuandong Tian, Raghuraman Krishnamoorthi, Yangyang Shi, Vikas Chandra},
-      year={2025},
-      url = {https://huggingface.co/mobilellm-r1}
-    }
+  @article{zhao2025mobilellm-r1,
+    title={MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes},
+    author={Zhao, Changsheng and Chang, Ernie and Liu, Zechun and Chang, Chia-Jung and Wen, Wei and Lai, Chen and Cao, Sheng, and Tian, Yuandong and Krishnamoorthi, Raghuraman and Shi, Yangyang and  Chandra, Vikas},
+    journal={arXiv preprint arXiv:2509.24945},
+    year={2025}
+  }
+
 
 # Contact
 Changsheng Zhao, Meta Inc (cszhao at meta dot com)
