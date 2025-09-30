@@ -335,12 +335,12 @@ For AIME, we evaluate models across 64 runs and report the average accuracy. For
 
 If you find our model useful for your research, please consider citing:
 
-  @article{zhao2025mobilellm-r1,
-    title={MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes},
-    author={Zhao, Changsheng and Chang, Ernie and Liu, Zechun and Chang, Chia-Jung and Wen, Wei and Lai, Chen and Cao, Sheng, and Tian, Yuandong and Krishnamoorthi, Raghuraman and Shi, Yangyang and  Chandra, Vikas},
-    journal={arXiv preprint arXiv:2509.24945},
-    year={2025}
-  }
+    @article{zhao2025mobilellm-r1,
+      title={MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes},
+      author={Zhao, Changsheng and Chang, Ernie and Liu, Zechun and Chang, Chia-Jung and Wen, Wei and Lai, Chen and Cao, Sheng, and Tian, Yuandong and Krishnamoorthi, Raghuraman and Shi, Yangyang and  Chandra, Vikas},
+      journal={arXiv preprint arXiv:2509.24945},
+      year={2025}
+    }
 
 
 # Contact
