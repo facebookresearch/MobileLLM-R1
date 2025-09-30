@@ -13,7 +13,7 @@ This repository includes demonstration code to reproduce the pretraining, mid-tr
 
 ## News
 - Sept 12, 2025: 🚀 MobileLLM-R1 models are released on [HuggingFace](https://huggingface.co/collections/facebook/mobilellm-r1-68c4597b104fac45f28f448e).
-- Spet 29, 2025: 🌟 The technical report "[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](https://arxiv.org/pdf/2509.24945)" is also available! Please check it out. 
+- Sept 29, 2025: 🌟 The technical report "[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](https://arxiv.org/pdf/2509.24945)" is also available! Please check it out. 
 
 ## Highlights
 
