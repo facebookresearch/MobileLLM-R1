@@ -12,7 +12,7 @@ MobileLLM-R1 is a new series of efficient reasoning models within the MobileLLM 
 This repository includes demonstration code to reproduce the pretraining, mid-training, and SFT stages of MobileLLM-R1, as well as the corresponding intermediate checkpoints and data mix weights.
 
 ## News
-- Jan 2026: 🔥 [MobileLLM-R1](https://arxiv.org/pdf/2509.24945) has been accepted to ICLR 2026. 
+- Jan 22, 2026:  🌟 [MobileLLM-R1](https://arxiv.org/pdf/2509.24945) has been accepted to ICLR 2026. 
 - Sept 29, 2025: 🌟 The technical report "[MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](https://arxiv.org/pdf/2509.24945)" is also available! Please check it out. 
 - Sept 12, 2025: 🚀 MobileLLM-R1 models are released on [HuggingFace](https://huggingface.co/collections/facebook/mobilellm-r1-68c4597b104fac45f28f448e).
 
